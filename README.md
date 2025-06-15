@@ -19,7 +19,7 @@ This project is a pixel-perfect Flutter implementation based on the Figma design
 
 | Home Screen (Normal) | Freeze Enabled |
 |----------------------|----------------|
-| <img src="https://github.com/user-attachments/assets/e303266f-0702-46aa-8e85-20b5c5bf6f90" width="250"/> | <img src="https://github.com/user-attachments/assets/e303266f-0702-46aa-8e85-20b5c5bf6f90" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/e303266f-0702-46aa-8e85-20b5c5bf6f90" width="250"/> | <img src="https://github.com/user-attachments/assets/02f00393-7242-4795-88c4-8f1018fd63d8" width="250"/> |
 
 
 ---
