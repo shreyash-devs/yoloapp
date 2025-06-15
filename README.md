@@ -19,8 +19,8 @@ This project is a pixel-perfect Flutter implementation based on the Figma design
 
 | Home Screen (Normal) | Freeze Enabled |
 |----------------------|----------------|
-| ![WhatsApp Image 2025-06-15 at 23 51 39_7c02693f](https://github.com/user-attachments/assets/e303266f-0702-46aa-8e85-20b5c5bf6f90)
- | *(Add screenshots here)* |
+| <img src="https://github.com/user-attachments/assets/e303266f-0702-46aa-8e85-20b5c5bf6f90" width="250"/> | <img src="https://github.com/user-attachments/assets/e303266f-0702-46aa-8e85-20b5c5bf6f90" width="250"/> |
+
 
 ---
 
